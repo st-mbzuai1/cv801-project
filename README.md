@@ -47,7 +47,7 @@ This script will iterate through the evaluation source videos and prompts and wr
 ### B) Run a single video with a custom prompt
 From the same folder:
 ```bash
-python main.py   --input_path ./demo_selfie/jeff_1.mp4   --prompt "Elon Mush is giving a talk"   --output_path ./outputs/elon_talking_2.mp4
+python main.py   --input_path ./demo_selfie/jeff_1.mp4   --prompt "Elon Musk is giving a talk"   --output_path ./outputs/elon_talking_2.mp4
 ```
 
 **Arguments**
