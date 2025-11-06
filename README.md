@@ -16,9 +16,9 @@ All required files are provided in this Google Drive folder:
 
 ## 2) Build the environment
 
-> You only need **one** of the following, depending on which file is provided in the Drive folder.
 
-### Option A — Using Conda (if `environment.yml` is provided)
+
+###  Using Conda (if `environment.yml` is provided)
 ```bash
 # create env from YAML
 conda env create -f environment.yml
