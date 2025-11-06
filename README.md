@@ -57,3 +57,15 @@ python main.py   --input_path ./demo_selfie/jeff_1.mp4   --prompt "Elon Mush is 
 
 ---
 
+## 4) How to evaluate
+
+### A) Run the full evaluation (all source videos & prompts)
+follow the instructions as mentioned in : https://github.com/Jeff-LiangF/streamv2v/tree/main/tools
+```bash
+cd streamv2v/vid2vid/metrics
+``` 
+
+---
+
+
+
